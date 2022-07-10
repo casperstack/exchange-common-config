@@ -2,3 +2,4 @@
 Common configuration setting
 
 - Error Response
+- Symbol Config
