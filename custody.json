@@ -1,0 +1,16 @@
+{
+  "FIREBLOCK": {
+    "name": "FIREBLOCK",
+    "baseAPI": "xxxxxx",
+    "version": 1,
+    "limitPerDay": 100,
+    "isLocked": false
+  },
+  "BITGO": {
+    "name": "BITGO",
+    "baseAPI": "xxxxxx",
+    "version": 1,
+    "limitPerDay": 100,
+    "isLocked": false
+  }
+}

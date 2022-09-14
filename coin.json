@@ -1,0 +1,35 @@
+{
+  "BTC": {
+    "coinSymbol": "BTC",
+    "coinName": "Bitcoin",
+    "confirmation": 3,
+    "supportNetwork": {
+      "BTC": {
+        "custody": "Bitgo"
+      },
+      "ETH": {
+        "custody": "Bitgo"
+      }
+    }
+  },
+  "TBTC": {
+    "coinSymbol": "TBTC",
+    "coinName": "Testnet Bitcoin",
+    "confirmation": 3,
+    "supportNetwork": {
+      "BTC": {
+        "custody": "Bitgo"
+      }
+    }
+  },
+  "ETH": {
+    "coinSymbol": "ETH",
+    "coinName": "Ethereum",
+    "confirmation": 3,
+    "supportNetwork": {
+      "ETH": {
+        "custody": "Bitgo"
+      }
+    }
+  }
+}
